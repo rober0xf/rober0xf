@@ -25,3 +25,5 @@ I enjoy building efficient and reliable software.
 ### 📊 Stats
 
 ![rober's GitHub stats](https://github-readme-stats.vercel.app/api?username=rober0xf&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rober0xf&layout=compact)
