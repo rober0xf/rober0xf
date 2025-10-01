@@ -6,7 +6,7 @@
 
 ```csharp
 rober0xf@github
-------------------------------------------------------------------
+----------------------------------------------------------------
 Bio: CS student interested in backend engineering,
             low-level programming,
             and systems design.
