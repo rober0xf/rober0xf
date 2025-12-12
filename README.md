@@ -1,36 +1,41 @@
-```zsh
-> fastfetch
-```
+# ⛰️ rober0xf
 
-<img align="left" src="https://i.imgur.com/RP9ZVFK.png" alt="doggo" width="310" />
+**`Software Engineer`**
 
-```csharp
-rober0xf@github
-----------------------------------------------------------------
-Bio: CS student interested in backend engineering,
-            low-level programming,
-            and systems design.
-OS: Arch Linux x86_64
-Shell: zsh 5.9
-Location: Argentina
-Tools: Linux, Git, SQLite, PostgreSQL
-Frameworks: FastAPI, Django, Gin
-Languages: Python, Go
-Learning: Rust
-Editor: Neovim, Zed
+Computer science student. Backend dev & distributed systems enthusiast. I build things from scratch and try to make them work.
 
+<p align="left">
+            <a href="https://rober0xf.github.io">
+                        <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://twitter.com/rober0xf">
+                        <img src="https://img.shields.io/badge/twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+            </a>
+            <a href="https://leetcode.com/rober0xf">
+                        <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+            </a>
+            <a href="https://www.hackerrank.com/rober0xf">
+                        <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+            </a>
+</p>
 
-
-
-/EOF
-```
 ---
-<details>
-<summary>⚡️ More about my coding life</summary>
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 <br />
 
-![Rober's github stats](https://github-readme-stats.vercel.app/api?username=rober0xf&count_private=true&show_icons=true&theme=onedark)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rober0xf&layout=compact&hide=css,html&theme=onedark)
+### 📊 Stats
 
-</details>
+![Rober's GitHub stats](https://github-readme-stats.vercel.app/api?username=rober0xf&show_icons=true&theme=gruvbox)
