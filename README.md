@@ -14,9 +14,6 @@ Computer science student. Backend dev & distributed systems enthusiast. I build 
             <a href="https://leetcode.com/rober0xf">
                         <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
             </a>
-            <a href="https://www.hackerrank.com/rober0xf">
-                        <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-            </a>
 </p>
 
 ---
