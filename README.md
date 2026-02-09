@@ -30,9 +30,3 @@ Computer science student. Backend dev & distributed systems enthusiast. I build 
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 <br />
-
----
-
-### 📊 Stats
-
-![Rober's GitHub stats](https://github-readme-stats.vercel.app/api?username=rober0xf&show_icons=true&theme=gruvbox)
