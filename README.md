@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-Computer science student. Backend dev & distributed systems enthusiast. I build things from scratch and try to make them work.
+System's engineering student. Backend dev & distributed systems enthusiast. I build things from scratch and try to make them work.
 
 <p align="left">
             <a href="https://rober0xf.github.io">
