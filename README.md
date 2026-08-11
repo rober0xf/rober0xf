@@ -1,6 +1,8 @@
 # ⛰️ rober0xf
 
-![Alt Text](kiss.gif)
+<p align="center">
+  <img src="kiss.gif" width="320">
+</p>
 
 **`Software Engineer`**
 
