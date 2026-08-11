@@ -1,5 +1,7 @@
 # ⛰️ rober0xf
 
+![Alt Text](kiss.gif)
+
 **`Software Engineer`**
 
 System's engineering student. Backend dev & distributed systems enthusiast. I build things from scratch and try to make them work.
