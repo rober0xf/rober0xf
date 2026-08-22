@@ -6,19 +6,7 @@
 
 **`Software Engineer`**
 
-System's engineering student. Backend dev & distributed systems enthusiast. I build things from scratch and try to make them work.
-
-<p align="left">
-            <a href="https://rober0xf.github.io">
-                        <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://twitter.com/rober0xf">
-                        <img src="https://img.shields.io/badge/twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-            </a>
-            <a href="https://leetcode.com/rober0xf">
-                        <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-            </a>
-</p>
+System's engineering student. Backend developer. I build things from scratch and try to make them work.
 
 ---
 
